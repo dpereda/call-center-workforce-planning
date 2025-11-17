@@ -2071,7 +2071,6 @@ For organizations with >50 agents or >5 skill groups, consider a hybrid approach
 **Document Version**: 1.0
 **Last Updated**: 2025-11-17
 **Author**: Call Center Forecasting Toolkit
-**License**: Free to use and modify
 
 ---
 

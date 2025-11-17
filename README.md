@@ -38,7 +38,6 @@ This creates a full year of realistic call center data for testing and learning.
 ```
 callcenterexample/
 ├── README.md                                    # This file
-├── LICENSE                                      # MIT License
 │
 ├── 📊 Data Files
 │   ├── call_center_arrival_pattern.csv         # Sample week of call data
@@ -333,10 +332,6 @@ Contributions are welcome! Areas for enhancement:
 - Real-time adherence tracking
 - Shift schedule optimization algorithms
 - Interactive web-based calculators
-
-## 📄 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
